@@ -9,6 +9,7 @@ Este repositório contém os artefatos principais do projeto, incluindo backlog 
 
 ## 🔗 Links Importantes
 - [Miro Board](https://miro.com/app/board/uXjVJMkkhx8=/?share_link_id=164338963764)
+- [Figma](https://www.figma.com/design/xLIW0bSURBqLjcsF5CZn1y/EcoRide?node-id=0-1&t=90clPUNM4Gen0GGn-1)
 
 ## 📌 Backlogs
 
